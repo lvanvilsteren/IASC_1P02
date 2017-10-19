@@ -1,13 +1,37 @@
 body{
-  background-color:red;
+  background-color: green;
+  font-weight: bold;
 }
 
- ul{
-  color: green;
-  font-style: italic;
+#wrapper{
+  background-color: white;
+  margin: 0 auto;
+  width: 800px;
 }
-
-li{
-  font-size: 30px;
-  display: inline;
+#header{
+  background-color: red;
+  text-align: center;
+  height: 50px;
+  padding: 16px;
+}
+#nav{
+  background-color: pink;
+  float: left;
+  width: 300px;
+  height: 80px;
+}
+#nav2{
+  background-color: orange;
+  float: right;
+  width: 500px;
+  height: 80px;
+}
+#content{
+  background-color: blue;
+  height:400px;
+  padding: 16px
+}
+#footer{
+  background-color: yellow;
+  padding: 16px;
 }
