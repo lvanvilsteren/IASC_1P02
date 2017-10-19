@@ -1,0 +1,29 @@
+body{
+  background-color: green;
+  font-weight: bold;
+}
+
+#wrapper{
+  background-color: green;
+  margin: 0 auto;
+  width: 800px;
+}
+#content{
+  background-color: blue;
+  height:200px;
+  width: 200px;
+  float: left;
+}
+#content2{
+  background-color: Red;
+  height:200px;
+  width: 200px;
+  float: right;
+}
+#content3{
+  background-color: Yellow;
+  height:200px;
+  width: 200px;
+  margin: 0 auto;
+  clear: left;
+}
