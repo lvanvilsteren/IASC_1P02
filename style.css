@@ -1,8 +1,28 @@
-.numberOne{
-  font-family: arial;
-  text-transform: uppercase;
+body{
+  background-color: white;
+  color: white;
 }
-img{
-  border: 20px solid;
-  border-color: black
+
+#wrapper{
+  background-color: white;
+  margin: 0 auto;
+}
+#header{
+  background-color: red;
+  text-align: center;
+  height: 100px;
+  width: 100%;
+  float:left;
+}
+#content{
+  background-color: green;
+  height: 400px;
+  width: 100%;
+  float: left;
+}
+#footer{
+  background-color: blue;
+  height: 100px;
+  width: 100%;
+  float: left;
 }
