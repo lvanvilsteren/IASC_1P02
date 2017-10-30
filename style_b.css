@@ -1,0 +1,9 @@
+body{
+  background-color:
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    height:2000px;
+  }
