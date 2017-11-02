@@ -1,0 +1,24 @@
+body{
+  background-color: white
+}
+.wrapper{
+  background-color: green;
+  width: 900px;
+  border: 5px solid green;
+
+
+
+}
+.box1{
+  border: dotted black;
+  margin: 5px;
+}
+#red{
+  color:red;
+}
+#green{
+  color: darkgreen;
+}
+div p{
+  color: purple;
+}
