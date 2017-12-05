@@ -78,6 +78,10 @@ li a:hover {
     margin-top: 12px;
     width: 100%;
   }
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}
 .row:after {
     content: "";
     display: table;
