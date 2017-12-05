@@ -1,3 +1,4 @@
+window.confirm("Make sure you look at the Prince Edward Island Page before the Peru one!")
 
 function one() {
     var elements = document.getElementsByClassName("column");
